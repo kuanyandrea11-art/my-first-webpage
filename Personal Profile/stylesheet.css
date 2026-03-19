@@ -1,0 +1,20 @@
+  h1, h2,h3,h4 {
+                    font-size: medium;
+                    font-weight: bold;
+                    color:purple;
+                    border-bottom: solid black;
+                    
+                }
+                 p1,p2,p3, p4 {
+
+                  line-height: 1.5em;
+                         
+                }
+
+                li {
+                  color: purple;
+                  border-bottom: solid black;
+                }
+              
+
+                
